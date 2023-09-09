@@ -1,0 +1,27 @@
+.box{
+    background-color: #f7f2e8;
+    border: none;
+    box-shadow: 0px 0px 5px 0px #f4bf98;
+    width: 5rem;
+    height: 5rem;
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Shadows Into Light', cursive;
+}
+.win-comb{
+  position: relative;
+  background: linear-gradient(45deg, transparent 49%, red 49%, red 51%, transparent 51%);
+  background-size: 6px 6px;
+}
+
+.x{
+    color: #f00a26;
+}
+
+.o{
+    color: #11d147;
+}
+
+.box:hover{
+    cursor:crosshair;
+}

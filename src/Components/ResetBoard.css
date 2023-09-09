@@ -1,0 +1,14 @@
+.reset-btn{
+    background-color: #005ae0;
+    height: 2rem;
+    width: 4rem;
+    border-radius: 20%;
+    box-shadow: none;
+    color: white;
+    border: none;
+    text-align: center;
+}
+
+.reset-btn:hover{
+    cursor: pointer;
+}
